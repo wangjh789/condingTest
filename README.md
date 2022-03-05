@@ -12,4 +12,4 @@
 |  0007 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |[java]()| -                                                 |-|
 |  0008 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)       |[java]()| -                                                 |-|
 |  0009 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)       |[java]()| -                                                 |-|
-|  0010 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42627)       |[java]()| -                                                 |-|
+|  0010 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)   |[java]()| -                                                 |-|
