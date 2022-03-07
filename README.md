@@ -23,8 +23,17 @@
 |  0018 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)        |[java]()| -                                               |
 |  0018 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)       |[java]()| -                                               |
 |  0019 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)    |[java]()| greedy                                          |
-|  0020 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)       |[java]()|                                           |
-|  0021 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)     |[java]()|                                           |
-|  0022 | [단속 카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)     |[java]()|                                           |
+|  0020 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)       |[java]()|                                                 |
+|  0021 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)     |[java]()|                                                 |
+|  0022 | [단속 카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)     |[java]()|                                                 |
+|  0023 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)     |[java]()| dfs                                             |
+|  0024 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)     |[java]()| 식 찾기                                            |
+|  0025 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)        |[java]()|                                                 |
+|  0026 | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)        |[java]()| 식 찾고, 상황 나누기                                    |
+|  0027 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)      |[java]()|                                     |
+|  0027 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)       |[java]()|                                     |
+|  0027 | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)      |[java]()|                                     |
+|  0027 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)       |[java]()|                                     |
+
 
 
