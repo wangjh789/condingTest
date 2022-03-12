@@ -31,9 +31,12 @@
 |  0025 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)        |[java]()|                                                 |
 |  0026 | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)        |[java]()| 식 찾고, 상황 나누기                                    |
 |  0027 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)      |[java]()|                                     |
-|  0027 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)       |[java]()|                                     |
-|  0027 | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)      |[java]()|                                     |
-|  0027 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)       |[java]()|                                     |
+|  0028 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)       |[java]()|                                     |
+|  0029 | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)      |[java]()|                                     |
+|  0030 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)       |[java]()|                                     |
+|  0031 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)       |[java]()|                                     |
+|  0032 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)    |[java]()|                                     |
+|  0032 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191)         |[java]()|                                     |
 
 
 
