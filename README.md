@@ -36,7 +36,11 @@
 |  0030 | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)       |[java]()|                                     |
 |  0031 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)       |[java]()|                                     |
 |  0032 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)    |[java]()|                                     |
-|  0032 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191)         |[java]()|                                     |
+|  0033 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191)         |[java]()|                                     |
+|  0034 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)     |[java]()|                                     |
+|  0035 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)      |[java]()|                                     |
+|  0036 | [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) |[java]()|                                     |
+|  0036 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)     |[java]()|                                     |
 
 
 
