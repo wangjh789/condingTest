@@ -51,9 +51,13 @@
 |  0045 | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)      |[java]()|                                                 |
 |  0046 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)          |[java]()|                                                 |
 |  0047 | [리틀 프렌즈 사천성](https://programmers.co.kr/learn/courses/30/lessons/1836)   |[java]()| 틀렸는데 반례를 못찾겠다.                                  |
-|  0048 | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)    |[java]()|                                   |
-|  0049 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)      |[java]()|                                   |
-|  0050 | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)   |[java]()|                                   |
+|  0048 | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)    |[java]()|                                                 |
+|  0049 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)      |[java]()|                                                 |
+|  0050 | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)   |[java]()|                                                 |
+|  0050 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)       |[java]()| 효율성이..                                          |
+|  0050 | [좌물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)     |[java]()|                                                 |
+|  0050 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)         |[java]()| 유연한 dfs                                         |
+|  0050 | [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)        |[java]()| 시간 초과..                                         |
 
 
 
