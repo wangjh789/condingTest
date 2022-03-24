@@ -108,6 +108,8 @@
 |  0093 | [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938)          |                                                                [java]()                                                                 |                                                                                        |
 |  0093 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)        |                                                                [java]()                                                                 |                                                                                        |
 |  0093 | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)          |                                                                [java]()                                                                 |                                                                                        |
+|  0093 | [N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)         |                                                                [java]()                                                                 |                                                                                        |
+|  0093 | [양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)            |                                                                [java]()                                                                 |                                                                                        |
 
 
 
